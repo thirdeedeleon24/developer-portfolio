@@ -1,0 +1,62 @@
+body {
+
+	background-image: url(../images/bg-11.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif
+
+}
+
+h1 {
+	color: red;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+	color: black;
+	font-size: 22px;
+	margin: 0 auto;
+	font-family: 'Oswald', sans-serif;
+	background-color: white;
+	padding: 10px 0;
+	/*width: 360px;*/
+
+
+}
+
+.bio {
+
+	color: white;
+	font-size: 14px;
+	padding: 30px;
+	background-color: rgb(255,255,255,.1);
+	text-align: justify;
+
+}
+
+.me {
+
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 50px;
+}
+
+.about {
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
